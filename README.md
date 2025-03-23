@@ -1,3 +1,5 @@
+![logo](https://github.com/kiran-c861/kiran-c861/blob/main/Kiran%20C.png)
+
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">I am BCA student at NIPE Manglore</h3>
 <img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif" >
